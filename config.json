@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "apis": [
+    {
+      "id": "ff",
+      "name": "非凡",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "zd",
+      "name": "最大",
+      "url": "https://api.zuidapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "gs",
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "dt",
+      "name": "天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "lz",
+      "name": "量子",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "sn",
+      "name": "索尼",
+      "url": "https://suoniapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "wj",
+      "name": "无尽",
+      "url": "https://api.wujinapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "bf",
+      "name": "暴风",
+      "url": "https://bfzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "hn",
+      "name": "红牛",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    },
+    {
+      "id": "js",
+      "name": "极速",
+      "url": "https://jszyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "jy",
+      "name": "金鹰",
+      "url": "https://jyzyapi.com/provide/vod/"
+    },
+    {
+      "id": "xl",
+      "name": "新浪",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+    },
+    {
+      "id": "md",
+      "name": "魔都",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "ry",
+      "name": "如意",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "sb",
+      "name": "速播",
+      "url": "https://subocaiji.com/api.php/provide/vod/"
+    },
+    {
+      "id": "hy",
+      "name": "虎牙",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "db",
+      "name": "豆瓣",
+      "url": "https://dbzy.tv/api.php/provide/vod/"
+    },
+    {
+      "id": "ik",
+      "name": "iKun",
+      "url": "https://ikunzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "id": "my",
+      "name": "猫眼",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod/"
+    },
+    {
+      "id": "zk",
+      "name": "1080",
+      "url": "https://api.1080zyku.com/inc/api_mac10.php"
+    }
+  ],
+  "hosts": {},
+  "sites": [
+    {
+      "id": "huavod",
+      "name": "华视影院",
+      "url": "https://huavod.cc/"
+    },
+    {
+      "id": "nivod",
+      "name": "泥视频",
+      "url": "https://www.nivod.cc/"
+    },
+    {
+      "id": "xiaobao",
+      "name": "小宝影院",
+      "url": "https://www.xiaobaotv.tv/"
+    },
+    {
+      "id": "darkvod",
+      "name": "黑夜影院",
+      "url": "https://darkvod.com/"
+    },
+    {
+      "id": "chinatown",
+      "name": "唐人街影院",
+      "url": "https://www.chinatownfilm.com/"
+    },
+    {
+      "id": "dsdytv",
+      "name": "袋鼠影视",
+      "url": "https://dsdytv.com/"
+    }
+  ]
+}
